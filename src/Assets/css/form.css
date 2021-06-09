@@ -1,0 +1,13 @@
+.form{
+    margin-top: 40px;
+    margin-left: 350px;
+}
+
+.form-field{
+    padding: 2px;
+    align-items: center;
+    border-radius: 5px 5px 0 0;
+    height: 50px;
+    width: 500px;
+    margin: 10px;
+}
